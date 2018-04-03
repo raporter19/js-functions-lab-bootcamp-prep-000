@@ -15,3 +15,5 @@ function holidayCountdown(holiday, days) {
   console.log(`It's ${days} days until ${holiday}!`)
   return `It's ${days} days until ${holiday}!`
 }
+
+holidayCountdown(Christmas, 178)
